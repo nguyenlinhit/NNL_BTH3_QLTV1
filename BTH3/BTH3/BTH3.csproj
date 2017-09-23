@@ -33,8 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -52,10 +56,55 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDanhSachBanDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDanhSachBanDoc.Designer.cs">
+      <DependentUpon>frmDanhSachBanDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_NhapSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_NhapSach.Designer.cs">
+      <DependentUpon>frm_NhapSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TraCuuSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TraCuuSach.Designer.cs">
+      <DependentUpon>frm_TraCuuSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_XuLyMuonTraSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_XuLyMuonTraSach.Designer.cs">
+      <DependentUpon>frm_XuLyMuonTraSach.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDanhSachBanDoc.resx">
+      <DependentUpon>frmDanhSachBanDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_NhapSach.resx">
+      <DependentUpon>frm_NhapSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TraCuuSach.resx">
+      <DependentUpon>frm_TraCuuSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_XuLyMuonTraSach.resx">
+      <DependentUpon>frm_XuLyMuonTraSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +114,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +128,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-login-human-man-body-128.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
