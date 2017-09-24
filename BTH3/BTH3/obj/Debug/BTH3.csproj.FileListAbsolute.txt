@@ -1,5 +1,6 @@
 D:\Quan que\BTH3\BTH3\bin\Debug\BTH3.exe.config
 D:\Quan que\NNL_BTH3_QLTV\BTH3\BTH3\bin\Debug\BTH3.exe.config
+<<<<<<< HEAD
 E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\bin\Debug\BTH3.exe.config
 E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\bin\Debug\BTH3.exe
 E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\bin\Debug\BTH3.pdb
@@ -9,3 +10,6 @@ E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.Properties.Resources.resour
 E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.csproj.GenerateResource.Cache
 E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.exe
 E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.pdb
+=======
+D:\Quan que\NNL_BTH3_QLTV1\BTH3\BTH3\bin\Debug\BTH3.exe.config
+>>>>>>> 970a4d335f3976febe451f9b27c4ac7a4940fd80
