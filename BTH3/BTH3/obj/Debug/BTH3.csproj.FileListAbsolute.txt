@@ -1,2 +1,11 @@
 D:\Quan que\BTH3\BTH3\bin\Debug\BTH3.exe.config
 D:\Quan que\NNL_BTH3_QLTV\BTH3\BTH3\bin\Debug\BTH3.exe.config
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\bin\Debug\BTH3.exe.config
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\bin\Debug\BTH3.exe
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\bin\Debug\BTH3.pdb
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.csprojResolveAssemblyReference.cache
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.Form1.resources
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.Properties.Resources.resources
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.csproj.GenerateResource.Cache
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.exe
+E:\Nam4\BTH3\NNL_BTH3_QLTV1\BTH3\BTH3\obj\Debug\BTH3.pdb
